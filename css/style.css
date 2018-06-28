@@ -47,5 +47,12 @@ img {
 }
 
 .pic:hover {
-  color: #777 ;
+  color: #777;
 }
+
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
+
+
